@@ -1,0 +1,15 @@
+C:\Users\juanj\OneDrive\Desktop\juan_castro_piscinas\Piscinas\bin\Debug\net8.0\Piscinas.exe
+C:\Users\juanj\OneDrive\Desktop\juan_castro_piscinas\Piscinas\bin\Debug\net8.0\Piscinas.deps.json
+C:\Users\juanj\OneDrive\Desktop\juan_castro_piscinas\Piscinas\bin\Debug\net8.0\Piscinas.runtimeconfig.json
+C:\Users\juanj\OneDrive\Desktop\juan_castro_piscinas\Piscinas\bin\Debug\net8.0\Piscinas.dll
+C:\Users\juanj\OneDrive\Desktop\juan_castro_piscinas\Piscinas\bin\Debug\net8.0\Piscinas.pdb
+C:\Users\juanj\OneDrive\Desktop\juan_castro_piscinas\Piscinas\obj\Debug\net8.0\Piscinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanj\OneDrive\Desktop\juan_castro_piscinas\Piscinas\obj\Debug\net8.0\Piscinas.AssemblyInfoInputs.cache
+C:\Users\juanj\OneDrive\Desktop\juan_castro_piscinas\Piscinas\obj\Debug\net8.0\Piscinas.AssemblyInfo.cs
+C:\Users\juanj\OneDrive\Desktop\juan_castro_piscinas\Piscinas\obj\Debug\net8.0\Piscinas.csproj.CoreCompileInputs.cache
+C:\Users\juanj\OneDrive\Desktop\juan_castro_piscinas\Piscinas\obj\Debug\net8.0\Piscinas.sourcelink.json
+C:\Users\juanj\OneDrive\Desktop\juan_castro_piscinas\Piscinas\obj\Debug\net8.0\Piscinas.dll
+C:\Users\juanj\OneDrive\Desktop\juan_castro_piscinas\Piscinas\obj\Debug\net8.0\refint\Piscinas.dll
+C:\Users\juanj\OneDrive\Desktop\juan_castro_piscinas\Piscinas\obj\Debug\net8.0\Piscinas.pdb
+C:\Users\juanj\OneDrive\Desktop\juan_castro_piscinas\Piscinas\obj\Debug\net8.0\Piscinas.genruntimeconfig.cache
+C:\Users\juanj\OneDrive\Desktop\juan_castro_piscinas\Piscinas\obj\Debug\net8.0\ref\Piscinas.dll
