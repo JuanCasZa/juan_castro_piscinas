@@ -10,7 +10,7 @@ piscinaAdultos.toboganes.Add(new Toboganes { altura = 20, largo = 15, color = "r
 piscinaAdultos.duchas.Add(new Duchas { tipoDeAgua = "Caliente" });
 
 Console.WriteLine("Ancho piscina: " + piscinaAdultos.ancho);
-Console.WriteLine("Largo piscina: " + piscinaAdultos.ancho);
+Console.WriteLine("Largo piscina: " + piscinaAdultos.largo);
 Console.WriteLine("Profundo piscina: " + piscinaAdultos.ancho);
 
 public class Piscinas
@@ -42,6 +42,6 @@ public class Flotadores
     public int cantidadFlotador;
 }
 
-
+//Cambio desde rama desarrollo para generar conflicto
 
 
