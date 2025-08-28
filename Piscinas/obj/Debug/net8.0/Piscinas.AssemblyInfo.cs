@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Piscinas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0bc4e948e1dc2f546eddfcaf098e05104893090")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa970ce19404154301de739b8a4a7ca2e2a46e1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Piscinas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Piscinas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

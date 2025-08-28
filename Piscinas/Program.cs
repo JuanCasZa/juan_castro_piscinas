@@ -42,11 +42,8 @@ public class Flotadores
     public int cantidadFlotador;
 }
 
-<<<<<<< HEAD
 //Cambio desde rama desarrollo para generar conflicto
-=======
 //Cambio desde la nube para generar conflicto...
 
->>>>>>> af832caf592c0a531c9a5de2ea12a59f680bfbf6
 
 
